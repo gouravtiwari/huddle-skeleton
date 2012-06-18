@@ -1,2 +1,5 @@
 //huddle specific code will go here
-alert("wassup~");
+
+$(document).ready(function() {
+  alert("wassup~");
+}
